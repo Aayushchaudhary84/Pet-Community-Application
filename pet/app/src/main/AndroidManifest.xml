@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Pet"
+        tools:targetApi="31">
+        <activity
+            android:name=".post_display"
+            android:exported="false" />
+        <activity
+            android:name=".task_5_make_posts"
+            android:exported="false" />
+        <activity
+            android:name=".task_5_discover_posts"
+            android:exported="false" />
+        <activity
+            android:name=".task_5_discover_posts_no_posts"
+            android:exported="false" />
+        <activity
+            android:name=".addedfriend"
+            android:exported="false" />
+        <activity
+            android:name=".userprofile3"
+            android:exported="false" />
+        <activity
+            android:name=".userprofile2"
+            android:exported="false" />
+        <activity
+            android:name=".userprofile1"
+            android:exported="false" />
+        <activity
+            android:name=".Task1"
+            android:exported="false" />
+        <activity
+            android:name=".RegisteredT4"
+            android:exported="false" />
+        <activity
+            android:name=".sumitted"
+            android:exported="false" />
+        <activity
+            android:name=".vet2"
+            android:exported="false" />
+        <activity
+            android:name=".SubmitReviews"
+            android:exported="false" />
+        <activity
+            android:name=".Veterarians"
+            android:exported="false" />
+        <activity
+            android:name=".pettrainers"
+            android:exported="false" />
+        <activity
+            android:name=".PetGroomers"
+            android:exported="false" />
+        <activity
+            android:name=".task3"
+            android:exported="false" />
+        <activity
+            android:name=".Health"
+            android:exported="false" />
+        <activity
+            android:name=".petacc"
+            android:exported="false" />
+        <activity
+            android:name=".pettech"
+            android:exported="false" />
+        <activity
+            android:name=".petsupplies"
+            android:exported="false" />
+        <activity
+            android:name=".Task3pg1"
+            android:exported="false" />
+        <activity
+            android:name=".Task4signup"
+            android:exported="false" />
+        <activity
+            android:name=".Task4event2"
+            android:exported="false" />
+        <activity
+            android:name=".Task4"
+            android:exported="false" />
+        <activity
+            android:name=".marketplace"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
