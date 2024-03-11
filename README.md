@@ -26,20 +26,3 @@ To run the Pet Community Application on your local machine, follow these steps:
 2. Open the project in Android Studio.
 3. Build and run the project on an Android emulator or a physical device.
 
-## Code Snippets
-
-### User Registration with Firebase Authentication
-
-```java
-// Code snippet for registering a new user with Firebase Authentication
-FirebaseAuth.getInstance().createUserWithEmailAndPassword(email, password)
-    .addOnCompleteListener(task -> {
-        if (task.isSuccessful()) {
-            // User registration successful, handle success
-            FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-            // Additional user profile setup can be done here
-        } else {
-            // User registration failed, handle failure
-            Exception exception = task.getException();
-        }
-    });
