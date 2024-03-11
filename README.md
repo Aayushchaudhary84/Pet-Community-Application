@@ -19,7 +19,7 @@ Welcome to the Pet Community Application! This app is designed to connect pet ow
 
 To run the Pet Community Application on your local machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone [https://github.com/Aayushchaudhary84/Pet-Community-application.git]`.
+1. Clone this repository to your local machine.
 2. Open the project in Android Studio.
 3. Build and run the project on an Android emulator or a physical device.
 
