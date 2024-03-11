@@ -6,7 +6,7 @@ Welcome to the Pet Community Application! This app is designed to connect pet ow
 
 - **User Registration and Profiles**: Users can sign up for an account, create a profile for themselves and their pets, and manage their information.
 - **Pet Posts and Updates**: Users can share posts, photos, and updates about their pets, including milestones, adventures, and more.
-- **Community Interaction**: Users can engage with each other through comments, likes, and direct messaging.
+- **Community Interaction**: Users can engage with each other through sharing, comments and likes.
 - **Pet Services Directory**: Users can discover and review pet-related services such as veterinarians, groomers, pet stores, etc.
 - **Events and Meetups**: Users can organize or discover pet-related events and meetups in their area.
 
