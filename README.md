@@ -10,13 +10,10 @@ Welcome to the Pet Community Application! This app is designed to connect pet ow
 - **Pet Services Directory**: Users can discover and review pet-related services such as veterinarians, groomers, pet stores, etc.
 - **Events and Meetups**: Users can organize or discover pet-related events and meetups in their area.
 
-## Technologies Used
+## Technologies Used## Technologies Used
 
-- **Android Studio**: The application is developed using Android Studio, making use of Java/Kotlin programming languages.
-- **Firebase**: Firebase is used for user authentication, real-time database, storage, and cloud messaging.
-- **RecyclerView**: RecyclerView is utilized for efficient display of lists and grids of data in the app.
-- **Glide**: Glide is used for image loading and caching.
-- **Material Design Components**: The app follows Material Design guidelines for a modern and intuitive user interface.
+- **Java**: The application is developed using Java programming language.
+- **Android Studio**: Android Studio is used as the primary Integrated Development Environment (IDE) for developing the application.
 
 ## Installation
 
